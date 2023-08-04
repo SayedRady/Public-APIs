@@ -6,6 +6,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 >
 > Items marked with 💸 are trial based APIs
 
+
 ## Table of Contents
 
 - [Advertising](#advertising)
